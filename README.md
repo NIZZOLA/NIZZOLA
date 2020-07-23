@@ -1,5 +1,9 @@
-### Hi there 👋
+### Olá, este é o Github de Márcio R Nizzola 👋
 
+- 🔭 Professor na Etec Itu
+- 🌱 Desenvolvedor na Dextra
+- 👯 Membro fundador da Comunidade Itu Developers 
+- 📫 How to reach me: marcio@nizzola.com.br
 <!--
 **NIZZOLA/NIZZOLA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
