@@ -1,9 +1,9 @@
 ### Olá 👋 Bem vindos ao meu perfil! 
 
-- 🔭 Professor na Etec Martinho di Ciero em Itu e Desenvolvedor na Dextra Digital
+- 🔭 Professor na Etec Martinho di Ciero em Itu e Tech Lead na Dextra Digital
 - 👯 Membro fundador da Comunidade Itu Developers 
 - 🌱 Atualmente trabalhando com .NET Core, PHP, Angular e Sql Server.
-- 🚀 Tenho estudado .NET, Angular, Azure e ferramentas cloud.
+- 🚀 Tenho estudado .NET, Angular, Ionic, Azure e ferramentas cloud.
 
 #### Follow me on my social networks:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nizzola)](https://github.com/nizzola)
