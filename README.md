@@ -1,6 +1,6 @@
 ### Olá 👋 Bem vindos ao meu perfil! 
 
-- 🔭 Professor na Etec Martinho di Ciero em Itu e Tech Lead na Dextra Digital
+- 🔭 Professor na Etec Martinho di Ciero em Itu e Arquiteto de Software na CI&T
 - 👯 Membro fundador da Comunidade Itu Developers 
 - 🌱 Atualmente trabalhando com .NET Core, PHP, Angular e Sql Server.
 - 🚀 Tenho estudado .NET, Angular, Ionic, Azure e ferramentas cloud.
