@@ -1,6 +1,7 @@
 ### Olá 👋 Bem vindos ao meu perfil! 
 
-- 🔭 Professor na Etec Martinho di Ciero em Itu e Arquiteto de Software na CI&T
+- 🔭 Arquiteto de Software na CI&T e Professor na Etec Martinho di Ciero em Itu
+- :trophy: Microsoft MVP 2022 e 2023. 
 - 👯 Membro fundador da Comunidade Itu Developers 
 - 🌱 Atualmente trabalhando com .NET Core, PHP, Angular e Sql Server.
 - 🚀 Tenho estudado .NET, Angular, Ionic, Azure e ferramentas cloud.
