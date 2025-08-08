@@ -1,9 +1,9 @@
 ### Olá 👋 Bem vindos ao meu perfil! 
 
 - 🔭 Arquiteto de Sistemas Master na CI&T e Professor na Etec Martinho di Ciero em Itu
-- :trophy: Microsoft MVP 2022/2023/2024 - Categoria Developer Techologies. 
+- :trophy: Microsoft MVP 2022/2023/2024/2025 - Categoria Developer Techologies e .NET. 
 - 👯 Membro fundador da Comunidade Itu Developers 
-- 🌱 Atualmente trabalhando com .NET Core, PHP, Angular e Sql Server.
+- 🌱 Atualmente trabalhando com .NET Core, Python, PHP, Angular e Sql Server.
 - 🚀 Tenho estudado .NET, Python, React, Angular, Ionic, Azure e ferramentas cloud.
 
 #### Follow me on my social networks:
