@@ -1,10 +1,10 @@
 ### Olá 👋 Bem vindos ao meu perfil! 
 
 - 🔭 Principal Architect na CI&T e Professor na Etec Martinho di Ciero em Itu
-- :trophy: Microsoft MVP 2022/2023/2024/2025 - Categoria Developer Techologies e .NET. 
+- :trophy: Microsoft MVP 2022/2023/2024/2025/2026 - Categoria Developer Techologies (.NET. )
 - 👯 Membro fundador da Comunidade Itu Developers 
 - 🌱 Atualmente trabalhando com .NET Core, Python, PHP, Angular e Sql Server.
-- 🚀 Tenho estudado .NET, Python, React, Angular, Ionic, Azure e ferramentas cloud.
+- 🚀 Tenho estudado .NET, Python, React, Angular, Ionic, Azure, Azure Ai Foundry, Microsoft Copilot e ferramentas cloud em geral.
 
 #### Follow me on my social networks:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nizzola)](https://github.com/nizzola)
